@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/BackgroundPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Mysql/Mysql.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/admin/A_student.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/admin/A_teacher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/admin/Adminmenu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/text/JFrameMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/logandreg/AdminRegister.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/logandreg/Login_Register.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/student/St.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/student/Studentmenu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/student/Stupanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/student/TestGUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/student/TestGUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/student/biaozhun.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/student/shenqing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/客户端/teacher/Client_c.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/服务器/Server.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/服务器/logandreg/LoginThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/服务器/logandreg/RegThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/服务器/upThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/登录与注册/客户端/AdminRegister.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/登录与注册/客户端/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/登录与注册/客户端/Login_Register.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/登录与注册/服务器/LoginThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/登录与注册/服务器/Mysql.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/登录与注册/服务器/RegThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/登录与注册/服务器/Server.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
